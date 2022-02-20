@@ -1,0 +1,10 @@
+# example config
+world=world/world.wld
+worldpath=world/world.wld
+autocreate=1
+worldname=some-name
+difficulty=0
+port=7777
+password=1234
+language=en-US
+priority=0
